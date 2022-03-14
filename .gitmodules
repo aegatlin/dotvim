@@ -7,3 +7,6 @@
 [submodule "pack/plugins/start/sleuth"]
 	path = pack/plugins/start/sleuth
 	url = https://github.com/tpope/vim-sleuth
+[submodule "pack/plugins/start/surround"]
+	path = pack/plugins/start/surround
+	url = https://github.com/tpope/vim-surround
