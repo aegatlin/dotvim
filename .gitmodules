@@ -13,3 +13,6 @@
 [submodule "pack/plugins/start/commentary"]
 	path = pack/plugins/start/commentary
 	url = https://github.com/tpope/vim-commentary
+[submodule "pack/plugins/start/vinegar"]
+	path = pack/plugins/start/vinegar
+	url = https://github.com/tpope/vim-vinegar
