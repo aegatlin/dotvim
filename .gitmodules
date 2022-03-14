@@ -1,0 +1,9 @@
+[submodule "pack/plugins/start/goyo"]
+	path = pack/plugins/start/goyo
+	url = https://github.com/junegunn/goyo.vim
+[submodule "pack/plugins/start/sensible"]
+	path = pack/plugins/start/sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "pack/plugins/start/sleuth"]
+	path = pack/plugins/start/sleuth
+	url = https://github.com/tpope/vim-sleuth
