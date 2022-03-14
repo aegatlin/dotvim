@@ -4,6 +4,7 @@ set splitright " default to splitting right (instead of left)
 set splitbelow " default to splitting below (instead of above)
 set wrap " soft word wrapping
 set linebreak " break on words, not chars
+set noswapfile " don't use swapfiles (at risk of losing data)
 
 " navigate naturally, even with soft wrap enabled
 nnoremap j gj
