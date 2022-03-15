@@ -16,3 +16,6 @@
 [submodule "pack/plugins/start/vinegar"]
 	path = pack/plugins/start/vinegar
 	url = https://github.com/tpope/vim-vinegar
+[submodule "pack/plugins/start/sneak"]
+	path = pack/plugins/start/sneak
+	url = https://github.com/justinmk/vim-sneak
