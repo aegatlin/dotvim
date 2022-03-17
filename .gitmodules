@@ -19,3 +19,6 @@
 [submodule "pack/plugins/start/sneak"]
 	path = pack/plugins/start/sneak
 	url = https://github.com/justinmk/vim-sneak
+[submodule "pack/plugins/start/fzf"]
+	path = pack/plugins/start/fzf
+	url = https://github.com/junegunn/fzf.vim
