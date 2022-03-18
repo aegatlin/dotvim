@@ -13,6 +13,11 @@ nnoremap j gj
 nnoremap k gk
 
 let mapleader = " "
+
 nmap <Leader>g :Goyo<CR>
 let g:goyo_linenr=1
 
+nmap <Leader>p :GFiles<CR>
+nmap <Leader>f :BLines<CR>
+
+nmap <Leader>q :wq<CR>
