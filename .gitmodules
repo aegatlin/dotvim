@@ -1,30 +1,18 @@
-[submodule "goyo"]
-	path = pack/plugins/start/goyo
-	url = https://github.com/junegunn/goyo.vim
-[submodule "sensible"]
-	path = pack/plugins/start/sensible
-	url = https://github.com/tpope/vim-sensible
-[submodule "sleuth"]
-	path = pack/plugins/start/sleuth
-	url = https://github.com/tpope/vim-sleuth
-[submodule "surround"]
-	path = pack/plugins/start/surround
-	url = https://github.com/tpope/vim-surround
-[submodule "commentary"]
-	path = pack/plugins/start/commentary
-	url = https://github.com/tpope/vim-commentary
-[submodule "vinegar"]
-	path = pack/plugins/start/vinegar
-	url = https://github.com/tpope/vim-vinegar
-[submodule "sneak"]
-	path = pack/plugins/start/sneak
-	url = https://github.com/justinmk/vim-sneak
-[submodule "fzf.vim"]
-	path = pack/plugins/start/fzf.vim
-	url = https://github.com/junegunn/fzf.vim
-[submodule "fzf"]
-	path = pack/plugins/start/fzf
-	url = https://github.com/junegunn/fzf
-[submodule "eunuch"]
-	path = pack/plugins/start/eunuch
-	url = https://github.com/tpope/vim-eunuch
+[submodule "pack/tpope/start/surround"]
+	path = pack/tpope/start/surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "pack/airblade/start/gitgutter"]
+	path = pack/airblade/start/gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "pack/tpope/start/commentary"]
+	path = pack/tpope/start/commentary
+	url = git@github.com:tpope/vim-commentary.git
+[submodule "pack/tpope/start/sensible"]
+	path = pack/tpope/start/sensible
+	url = git@github.com:tpope/vim-sensible.git
+[submodule "pack/tpope/start/repeat"]
+	path = pack/tpope/start/repeat
+	url = git@github.com:tpope/vim-repeat.git
+[submodule "pack/justinmk/start/sneak"]
+	path = pack/justinmk/start/sneak
+	url = git@github.com:justinmk/vim-sneak.git
