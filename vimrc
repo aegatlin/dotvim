@@ -6,6 +6,7 @@ set wrap " soft word wrapping
 set linebreak " break on words, not chars
 set noswapfile " don't use swapfiles (at risk of losing data)
 set autowriteall " auto-save on any event
+set colorcolumn=80 " colors column 80
 
 " shortens time until the gitgutter shows up
 set updatetime=100
@@ -15,10 +16,3 @@ nnoremap j gj
 nnoremap k gk
 
 let mapleader = " "
-
-nmap <Leader>g :Goyo<CR>
-let g:goyo_linenr=1
-
-nmap <Leader>p :GFiles<CR>
-nmap <Leader>f :BLines<CR>
-
