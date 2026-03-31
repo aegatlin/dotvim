@@ -7,6 +7,7 @@ set linebreak " break on words, not chars
 set noswapfile " don't use swapfiles (at risk of losing data)
 set autowriteall " auto-save on any event
 set colorcolumn=80 " colors column 80
+set mouse=a " allows mouse interactions
 
 " shortens time until the gitgutter shows up
 set updatetime=100
