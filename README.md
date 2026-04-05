@@ -19,7 +19,7 @@ git clone git@github.com:aegatlin/dotvim.git .vim
 # or
 gh repo clone dotvim .vim
 
-git submodule init --update
+git submodule update --init
 ```
 
 ## update packages
